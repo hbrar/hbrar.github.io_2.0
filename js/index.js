@@ -54,7 +54,7 @@ $('#menubar-slider').children('a:last-child').click(function(){
  //EMAIL BUTTON
  $('#email-button').click(function(){
 	
-		$(this).text('harmanbrar009@hotmail.com');
+		$(this).text('brarharman009@gmail.com');
  });
  })
 
