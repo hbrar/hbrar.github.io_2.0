@@ -1,0 +1,13 @@
+{
+  "cols": [
+        {"id":"","label":"TIME","pattern":"","type":"string"},
+        {"id":"","label":"ETH","pattern":"","type":"string"}
+      ],
+  "rows": [
+        {"c":[{"v":"11:00","f":null},{"v":"10","f":null}]},
+        {"c":[{"v":"11:10","f":null},{"v":"1","f":null}]},
+        {"c":[{"v":"11:20","f":null},{"v":"21","f":null}]},
+        {"c":[{"v":"11:30","f":null},{"v":"2","f":null}]},
+        {"c":[{"v":"11:40","f":null},{"v":"25","f":null}]}
+      ]
+}
