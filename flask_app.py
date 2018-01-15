@@ -7,10 +7,10 @@ import matplotlib.pyplot as plt
 
 @app.route("/")
 def index():
-    fig = plt.figure(dpi=2000)
-    ax = fig.add_subplot(111)
-    ax.plot([-1, -4.5, 16, -2, 23,0,30,3,20])
-    fig.savefig("./hbrar.github.io_2.0/static/images/binanceApi.png")
+    # fig = plt.figure(dpi=2000)
+    # ax = fig.add_subplot(111)
+    # ax.plot([-1, -4.5, 16, -2, 23,0,30,3,20])
+    # fig.savefig("./hbrar.github.io_2.0/static/images/binanceApi.png")
     return render_template("index.html")
 
 @app.route("/binanceApi")
